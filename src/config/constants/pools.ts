@@ -4,7 +4,7 @@ import { PoolCategory, PoolConfig } from './types'
 const pools: PoolConfig[] = [
   {
     sousId: 1,
-    stakingToken: tokens.blzd,
+    stakingToken: tokens.libre,
     earningToken: tokens.bnb,
     contractAddress: {
       97: '',
@@ -18,7 +18,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 2,
-    stakingToken: tokens.blzd,
+    stakingToken: tokens.libre,
     earningToken: tokens.bifi,
     contractAddress: {
       97: '',
@@ -32,7 +32,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 3,
-    stakingToken: tokens.blzd,
+    stakingToken: tokens.libre,
     earningToken: tokens.btc,
     contractAddress: {
       97: '',
@@ -46,7 +46,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 4,
-    stakingToken: tokens.blzd,
+    stakingToken: tokens.libre,
     earningToken: tokens.eth,
     contractAddress: {
       97: '',
@@ -60,7 +60,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 5,
-    stakingToken: tokens.blzd,
+    stakingToken: tokens.libre,
     earningToken: tokens.bnb,
     contractAddress: {
       97: '',
@@ -74,7 +74,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 6,
-    stakingToken: tokens.blzd,
+    stakingToken: tokens.libre,
     earningToken: tokens.cake,
     contractAddress: {
       97: '',

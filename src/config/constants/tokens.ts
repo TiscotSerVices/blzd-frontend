@@ -3,11 +3,11 @@ const tokens = {
     symbol: 'BNB',
     projectLink: 'https://www.binance.com/',
   },
-  blzd: {
-    symbol: 'BLZD',
+  libre: {
+    symbol: 'LIBRE',
     address: {
-      56: '0x57067A6BD75c0E95a6A5f158455926e43E79BeB0',
-      97: '0x1977ECbdE6832920c3554E238deDFfBC5ed996c9',
+      56: '0x51bd7298d99178a30eeedc9c7d60ac6415685617',
+      97: '0xea56cc54f4e26bd5625f94150cd6418b81dd5764',
     },
     decimals: 18,
     projectLink: 'https://blizzard.money/',

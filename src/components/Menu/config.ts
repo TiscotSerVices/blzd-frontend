@@ -33,7 +33,7 @@ const config: MenuEntry[] = [
     href: '/farms',
   },
   {
-    label: 'Caves',
+    label: 'Pools',
     icon: 'CaveIcon',
     href: '/caves',
   },
@@ -47,7 +47,7 @@ const config: MenuEntry[] = [
     icon: 'InfoIcon',
     items: [
       {
-        label: 'PancakeSwap',
+        label: 'LibreSwap',
         href: 'https://pancakeswap.info/token/0x57067A6BD75c0E95a6A5f158455926e43E79BeB0',
         external: true,
       },
@@ -56,13 +56,13 @@ const config: MenuEntry[] = [
   {
     label: 'Github',
     icon: 'GithubIcon',
-    href: 'https://github.com/blzd-dev',
+    href: 'https://github.com/TiscotSerVices',
     external: true,
   },
   {
     label: 'Blog',
     icon: 'MediumIcon',
-    href: 'https://blizzardmoney.medium.com',
+    href: 'https://medium.com/@libreswap',
     external: true,
   },
   {
