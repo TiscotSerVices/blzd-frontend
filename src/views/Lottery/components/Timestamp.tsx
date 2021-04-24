@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Text } from '@libre-dev/uikit'
+import { Text } from '@blzd-dev/uikit'
 import formatLotteryDate from '../helpers/formatLotteryDate'
 
 const Wrapper = styled.div`
