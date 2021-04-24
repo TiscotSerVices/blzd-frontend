@@ -7,11 +7,6 @@ const config: MenuEntry[] = [
     href: '/',
   },
   {
-    label: 'BLZD to xBLZD',
-    icon: 'TradeIcon',
-    href: '/xBLZD',
-  },
-  {
     label: 'Trade',
     icon: 'TradeIcon',
     items: [
@@ -38,7 +33,7 @@ const config: MenuEntry[] = [
     href: '/caves',
   },
   {
-    label: 'Blizzard',
+    label: 'Liquidity',
     icon: 'PoolIcon',
     href: '/pools',
   },
@@ -65,12 +60,7 @@ const config: MenuEntry[] = [
     href: 'https://medium.com/@libreswap',
     external: true,
   },
-  {
-    label: 'Audit',
-    icon: 'AuditIcon',
-    external: true,
-    href: 'https://github.com/blzd-dev/blzd-frontend/blob/master/public/files/gemzAudit.pdf',
-  },
+
 ]
 
 export default config
