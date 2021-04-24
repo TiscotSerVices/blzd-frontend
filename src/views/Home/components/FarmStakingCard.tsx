@@ -72,8 +72,8 @@ const FarmedStakingCard = () => {
           params: {
             type: 'ERC20',
             options: {
-              address: '0x57067A6BD75c0E95a6A5f158455926e43E79BeB0',
-              symbol: 'BLZD',
+              address: '0x51bd7298d99178a30eeedc9c7d60ac6415685617',
+              symbol: 'LIBRE',
               decimals: '18',
               image:
                 'https://blizzard.moneyhttps://raw.githubusercontent.com/blzd-dev/blzd-frontend/master/public/images/farms/blzd.png',
