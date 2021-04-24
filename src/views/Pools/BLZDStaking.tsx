@@ -31,10 +31,10 @@ const Farm: React.FC = () => {
       <Hero>
         <div>
           <Heading as="h1" size="xxl" mb="16px">
-            {TranslateString(282, 'BLZD Pool')}
+            {TranslateString(282, 'LIBRE Pool')}
           </Heading>
           <ul>
-            <li>{TranslateString(580, 'Stake BLZD to earn tokens.')}</li>
+            <li>{TranslateString(580, 'Stake LIBRE to earn tokens.')}</li>
             <li>{TranslateString(404, 'You can unstake at any time.')}</li>
             <li>{TranslateString(406, 'Rewards are calculated per block.')}</li>
           </ul>
